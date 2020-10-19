@@ -149,6 +149,9 @@ background: transparent;
         clear:none;
         float: right;
         max-height: none;
+        text-align: center;
+        align-items: center;
+        margin-top: 12px;
     }
     .header .menu-icon
     {
