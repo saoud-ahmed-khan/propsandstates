@@ -11,7 +11,7 @@ a{
 }
 .header
 {
-    background-color: rgba(13,110,139,.3);
+    background-color: rgba(13,110,139,.7);
     position: fixed;
     width: 100%;
     z-index: 3;
